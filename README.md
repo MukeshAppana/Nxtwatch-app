@@ -1,5 +1,9 @@
 In this assignment let's build an **Nxt Watch** by applying the concepts we have learned till now.
 
+Project link:- https://manxtwatch.ccbp.tech
+login id - rahul
+password - rahul@2021
+
 ### Refer to videos below:
 
 **Success View** <br/>
